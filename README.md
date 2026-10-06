@@ -61,6 +61,26 @@ The map helped translate the original game concept into Python using a nested di
 ### Original Game Map
 
 ![Stick and Move Game Map](stick-and-move-game-map.png)
+
+## 📸 Gameplay
+
+### Training & Fighter Stats
+
+Track Health, Power, Skill, Endurance, and collected equipment while preparing for the championship.
+
+![Fighter Stats](stick-and-move-screen1.png)
+
+### Championship Fight
+
+After meeting the minimum requirements, the player can enter the Championship Arena and face Drago.
+
+![Drago Fight](stick-and-move-screen2.png)
+
+### Becoming Champion
+
+Defeat Drago to win the fight and add the Championship Belt to your inventory.
+
+
 ## 🚀 What I Improved
 
 When rebuilding the original project, I expanded the game by:
