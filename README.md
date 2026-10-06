@@ -58,7 +58,9 @@ Once qualified, the player can enter the arena and fight Drago for the Champions
 Before coding the game, I created a visual map outlining the rooms, navigation paths, training locations, items, stat bonuses, and final Championship Arena.
 
 The map helped translate the original game concept into Python using a nested dictionary to control player movement.
+### Original Game Map
 
+![Stick and Move Game Map](stick-and-move-game-map.png)
 ## 🚀 What I Improved
 
 When rebuilding the original project, I expanded the game by:
